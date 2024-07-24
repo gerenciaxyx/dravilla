@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 width="24px" height="24px" viewBox="0 0 24 24" enable-background="new 0 0 24 24" xml:space="preserve">
+<line fill="none" stroke="#EE2A53" stroke-miterlimit="10" x1="8.172" y1="7.578" x2="15.172" y2="7.578"/>
+<g>
+	<g>
+		<line fill="none" stroke="#EE2A53" stroke-miterlimit="10" x1="-0.047" y1="15.641" x2="1.453" y2="15.641"/>
+		
+			<line fill="none" stroke="#EE2A53" stroke-miterlimit="10" stroke-dasharray="2.8636,1.9091" x1="3.362" y1="15.641" x2="21.499" y2="15.641"/>
+		<line fill="none" stroke="#EE2A53" stroke-miterlimit="10" x1="22.453" y1="15.641" x2="23.953" y2="15.641"/>
+	</g>
+</g>
+<line fill="none" stroke="#EE2A53" stroke-miterlimit="10" x1="-0.047" y1="11.578" x2="23.953" y2="11.578"/>
+</svg>

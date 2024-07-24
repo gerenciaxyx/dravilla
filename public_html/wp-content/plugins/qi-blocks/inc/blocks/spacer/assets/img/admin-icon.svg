@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 width="24px" height="24px" viewBox="0 0 24 24" enable-background="new 0 0 24 24" xml:space="preserve">
+<polyline fill="none" stroke="#EE2A53" stroke-width="0.75" stroke-miterlimit="10" points="13.521,15.313 11.468,17.366 
+	9.319,15.219 "/>
+<polyline fill="none" stroke="#EE2A53" stroke-width="0.75" stroke-miterlimit="10" points="13.607,8.656 11.553,6.602 9.404,8.75 
+	"/>
+<line fill="none" stroke="#EE2A53" stroke-miterlimit="10" x1="11.469" y1="6.76" x2="11.469" y2="17.148"/>
+<rect x="4.005" y="19" fill="#EE2852" width="15" height="1"/>
+<rect x="4.005" y="4" fill="#EE2852" width="15" height="1"/>
+</svg>

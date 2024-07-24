@@ -1,0 +1,1523 @@
+<wpml-config>
+    <custom-fields>
+        <custom-field action="copy">qode_carousel-image</custom-field>
+        <custom-field action="translate">qode_carousel-item-link</custom-field>
+        <custom-field action="copy">qode_carousel-hover-image</custom-field>
+        <custom-field action="copy">qode_carousel-item-target</custom-field>
+        <custom-field action="copy">qode_show-sidebar</custom-field>
+        <custom-field action="copy">qode_header_border_transparency_per_page</custom-field>
+        <custom-field action="copy">qode_show-posts-per-page</custom-field>
+        <custom-field action="copy">qode_responsive-title-image</custom-field>
+        <custom-field action="translate">qode_page_subtitle</custom-field>
+        <custom-field action="copy">qode_show-page-title</custom-field>
+        <custom-field action="copy">qode_page_title_style</custom-field>
+        <custom-field action="copy">qode_enable_content_bottom_area</custom-field>
+        <custom-field action="ignore">qode_choose_content_bottom_sidebar</custom-field>
+        <custom-field action="copy">qode_page_title_position</custom-field>
+        <custom-field action="copy">qode_title-image</custom-field>
+        <custom-field action="copy">qode_title-height</custom-field>
+        <custom-field action="copy">qode_title_text_shadow</custom-field>
+        <custom-field action="copy">qode_enable_breadcrumbs</custom-field>
+        <custom-field action="copy">qode_page_title_font_size</custom-field>
+        <custom-field action="copy">qode_fixed-title-image</custom-field>
+        <custom-field action="copy">qode_animate-page-title</custom-field>
+        <custom-field action="copy">_post_restored_from</custom-field>
+        <custom-field action="translate">qode_revolution-slider</custom-field>
+        <custom-field action="copy">qode_page_subtitle_color</custom-field>
+        <custom-field action="copy">qode_separator_bellow_title</custom-field>
+        <custom-field action="copy">qode_choose-sidebar</custom-field>
+        <custom-field action="copy">qode_header-style</custom-field>
+        <custom-field action="copy">qode_header_color_transparency_per_page</custom-field>
+        <custom-field action="copy">qode_page_scroll_amount_for_sticky</custom-field>
+        <custom-field action="copy">qode_page-title-color</custom-field>
+        <custom-field action="copy">qode_title_separator_color</custom-field>
+        <custom-field action="copy">qode_header_color_per_page</custom-field>
+        <custom-field action="copy">qode_page_background_color</custom-field>
+        <custom-field action="copy">qode_page-title-background-color</custom-field>
+        <custom-field action="translate">qode_portfolios</custom-field>
+        <custom-field action="copy">qode_portfolio_date</custom-field>
+        <custom-field action="copy">qode_portfolio_images</custom-field>
+        <custom-field action="copy">qode_choose-portfolio-single-view</custom-field>
+        <custom-field action="copy">qode_choose-portfolio-list-page</custom-field>
+        <custom-field action="copy">qode_portfolio_type_masonry_style</custom-field>
+        <custom-field action="copy">qode_choose-number-of-portfolio-columns</custom-field>
+        <custom-field action="copy">qode_portfolio_gallery_image_orientation</custom-field>
+        <custom-field action="translate">qode_portfolio-external-link</custom-field>
+        <custom-field action="copy">qode_portfolio-external-link-target</custom-field>
+        <custom-field action="copy">qode_portfolio-lightbox-link</custom-field>
+        <custom-field action="copy">qode_portfolio_type_masonry_style</custom-field>
+        <custom-field action="copy">qode_show_badge</custom-field>
+        <custom-field action="translate">qode_badge_text</custom-field>
+        <custom-field action="copy">qode_hide-featured-image</custom-field>
+        <custom-field action="copy">qode_slide-video-webm</custom-field>
+        <custom-field action="copy">qode_slide-video-image</custom-field>
+        <custom-field action="copy">qode_slide-background-type</custom-field>
+        <custom-field action="translate">qode_slide-text</custom-field>
+        <custom-field action="copy">qode_slide-content-alignment</custom-field>
+        <custom-field action="copy">qode_slide-content-top</custom-field>
+        <custom-field action="copy">qode_slide-content-width</custom-field>
+        <custom-field action="translate">qode_slide-button-label</custom-field>
+        <custom-field action="translate">qode_slide-button-link</custom-field>
+        <custom-field action="translate">qode_slide-button-label2</custom-field>
+        <custom-field action="translate">qode_slide-button-link2</custom-field>
+        <custom-field action="copy">qode_slide-content-left</custom-field>
+        <custom-field action="copy">qode_slide-video-mp4</custom-field>
+        <custom-field action="copy">qode_slide-video-ogv</custom-field>
+        <custom-field action="copy">qode_slide-video-overlay</custom-field>
+        <custom-field action="copy">qode_slide-video-overlay-image</custom-field>
+        <custom-field action="copy">qode_slide-image</custom-field>
+        <custom-field action="copy">qode_slide-thumbnail</custom-field>
+        <custom-field action="copy">qode_slide-title-color</custom-field>
+        <custom-field action="copy">qode_slide-text-color</custom-field>
+        <custom-field action="copy">qode_slide-separate-text-graphic</custom-field>
+        <custom-field action="copy">qode_slide-graphic-alignment</custom-field>
+        <custom-field action="copy">qode_slide-graphic-width</custom-field>
+        <custom-field action="copy">qode_slide-graphic-top</custom-field>
+        <custom-field action="copy">qode_slide-graphic-right</custom-field>
+        <custom-field action="copy">qode_slide-thumbnail-animation</custom-field>
+        <custom-field action="copy">qode_slide-graphic-left</custom-field>
+        <custom-field action="copy">qode_slide-hide-title-shadow</custom-field>
+        <custom-field action="copy">qode_slide-hide-shadow</custom-field>
+        <custom-field action="copy">qode_slide-header-style</custom-field>
+        <custom-field action="copy">qode_slide-title-font-size</custom-field>
+        <custom-field action="copy">qode_slide-title-line-height</custom-field>
+        <custom-field action="copy">qode_testimonial-author</custom-field>
+        <custom-field action="translate">qode_testimonial-text</custom-field>
+        <custom-field action="translate">qode_testimonial_website</custom-field>
+        <custom-field action="copy">qode_testimonial_rating</custom-field>
+        <custom-field action="copy">qode_slide-text-field-type</custom-field>
+        <custom-field action="translate">qode_seo_title</custom-field>
+        <custom-field action="translate">qode_seo_description</custom-field>
+        <custom-field action="copy">qode_post_style_masonry_date_image</custom-field>
+        <custom-field action="copy">qode_enable_image_animation</custom-field>
+        <custom-field action="copy">qode_enable_image_animation_type</custom-field>
+        <custom-field action="copy">qode_slide-content-animation</custom-field>
+        <custom-field action="copy">qode_slide-title-font-family</custom-field>
+        <custom-field action="copy">qode_slide-separator-after-title</custom-field>
+        <custom-field action="copy">qode_slide-border-around-title</custom-field>
+        <custom-field action="translate">qode_slide-subtitle</custom-field>
+        <custom-field action="copy">qode_slide-subtitle-position</custom-field>
+        <custom-field action="copy">qode_slide-subtitle-font-family</custom-field>
+        <custom-field action="copy">qode_slide-text-font-family</custom-field>
+        <custom-field action="copy">qode_slide_svg_drawing</custom-field>
+        <custom-field action="copy">qode_slide_general_animation</custom-field>
+        <custom-field action="copy">qode_slide_title_animation_scroll</custom-field>
+        <custom-field action="copy">qode_slide_subtitle_animation_scroll</custom-field>
+        <custom-field action="copy">qode_slide_graphic_animation_scroll</custom-field>
+        <custom-field action="copy">qode_slide_text_animation_scroll</custom-field>
+        <custom-field action="copy">qode_slide_button1_animation_scroll</custom-field>
+        <custom-field action="copy">qode_slide_button2_animation_scroll</custom-field>
+        <custom-field action="copy">qode_slide_separator_bottom_animation_scroll</custom-field>
+        <custom-field action="copy">qode_slide_svg_animation_scroll</custom-field>
+        <custom-field action="translate">qode_masonry_gallery_item_text</custom-field>
+        <custom-field action="translate">qode_masonry_gallery_item_link</custom-field>
+        <custom-field action="translate">qode_masonry_gallery_button_label</custom-field>
+    </custom-fields>
+    <custom-types>
+        <custom-type translate="1">portfolio_page</custom-type>
+        <custom-type translate="1">testimonials</custom-type>
+        <custom-type translate="1">slides</custom-type>
+        <custom-type translate="1">carousels</custom-type>
+	    <custom-type translate="1">masonry_gallery</custom-type>
+    </custom-types>
+    <taxonomies>
+        <taxonomy translate="1">portfolio_category</taxonomy>
+        <taxonomy translate="1">portfolio_tag</taxonomy>
+        <taxonomy translate="1">testimonials_category</taxonomy>
+        <taxonomy translate="1">slides_category</taxonomy>
+        <taxonomy translate="1">carousels_category</taxonomy>
+	    <taxonomy translate="1">masonry_gallery_category</taxonomy>
+        <taxonomy translate="0">publisher</taxonomy>
+    </taxonomies>
+    <admin-texts>
+        <key name="qode_options_proya">
+            <key name="meta_keywords" />
+            <key name="meta_description" />
+            <key name="side_area_title" />
+            <key name="email_subject" />
+            <key name="contact_heading_above" />
+            <key name="contact_section_above_form_title" />
+            <key name="contact_section_above_form_subtitle" />
+            <key name="404_title" />
+            <key name="404_subtitle" />
+            <key name="404_text" />
+            <key name="404_backlabel" />
+        </key>
+    </admin-texts>
+	<shortcodes>
+		<shortcode>
+			<tag>qode_banner</tag>
+			<attributes>
+				<attribute>link</attribute>
+			</attributes>
+		</shortcode>
+		<shortcode>
+			<tag>blockquote</tag>
+			<attributes>
+				<attribute>text</attribute>
+			</attributes>
+		</shortcode>
+		<shortcode>
+			<tag>button</tag>
+			<attributes>
+				<attribute>text</attribute>
+				<attribute>link</attribute>
+			</attributes>
+		</shortcode>
+		<shortcode>
+			<tag>action</tag>
+			<attributes>
+				<attribute>button_text</attribute>
+				<attribute>button_link</attribute>
+				<attribute>content</attribute>
+			</attributes>
+		</shortcode>
+		<shortcode>
+			<tag>countdown</tag>
+			<attributes>
+				<attribute>month_label</attribute>
+				<attribute>day_label</attribute>
+				<attribute>hour_label</attribute>
+				<attribute>minute_label</attribute>
+				<attribute>second_label</attribute>
+				<attribute>month_singular_label</attribute>
+				<attribute>day_singular_label</attribute>
+				<attribute>minute_singular_label</attribute>
+				<attribute>second_singular_label</attribute>
+			</attributes>
+		</shortcode>
+		<shortcode>
+			<tag>counter</tag>
+			<attributes>
+				<attribute>text</attribute>
+			</attributes>
+		</shortcode>
+		<shortcode>
+			<tag>cover_boxes</tag>
+			<attributes>
+				<attribute>title1</attribute>
+				<attribute>text1</attribute>
+				<attribute>link1</attribute>
+				<attribute>link_label1</attribute>
+				<attribute>title2</attribute>
+				<attribute>text2</attribute>
+				<attribute>link2</attribute>
+				<attribute>link_label2</attribute>
+				<attribute>title3</attribute>
+				<attribute>text3</attribute>
+				<attribute>link3</attribute>
+				<attribute>link_label3</attribute>
+			</attributes>
+		</shortcode>
+		<shortcode>
+			<tag>custom_font</tag>
+			<attributes>
+				<attribute>content</attribute>
+				<attribute type="area" encoding="urlencoded_json">typed_endings</attribute>
+			</attributes>
+		</shortcode>
+		<shortcode>
+			<tag>icons</tag>
+			<attributes>
+				<attribute>link</attribute>
+			</attributes>
+		</shortcode>
+		<shortcode>
+			<tag>icon_list_item</tag>
+			<attributes>
+				<attribute>title</attribute>
+			</attributes>
+		</shortcode>
+		<shortcode>
+			<tag>icon_text</tag>
+			<attributes>
+				<attribute>title</attribute>
+				<attribute>text</attribute>
+				<attribute>link</attribute>
+				<attribute>link_text</attribute>
+			</attributes>
+		</shortcode>
+		<shortcode>
+			<tag>image_hover</tag>
+			<attributes>
+				<attribute>link</attribute>
+			</attributes>
+		</shortcode>
+		<shortcode>
+			<tag>image_with_text</tag>
+			<attributes>
+				<attribute>title</attribute>
+				<attribute>content</attribute>
+			</attributes>
+		</shortcode>
+		<shortcode>
+			<tag>image_with_text_over</tag>
+			<attributes>
+				<attribute>title</attribute>
+				<attribute>content</attribute>
+			</attributes>
+		</shortcode>
+		<shortcode>
+			<tag>text_marquee</tag>
+			<attributes>
+				<attribute>title</attribute>
+			</attributes>
+		</shortcode>
+		<shortcode>
+			<tag>expanding_images</tag>
+			<attributes>
+				<attribute>link</attribute>
+				<attribute>title</attribute>
+				<attribute>side_image_1_link</attribute>
+				<attribute>side_image_2_link</attribute>
+				<attribute>side_image_3_link</attribute>
+				<attribute>side_image_4_link</attribute>
+				<attribute>side_image_5_link</attribute>
+				<attribute>side_image_6_link</attribute>
+				<attribute>side_image_7_link</attribute>
+				<attribute>side_image_8_link</attribute>
+			</attributes>
+		</shortcode>
+		<shortcode>
+			<tag>line_graph</tag>
+			<attributes>
+				<attribute>labels</attribute>
+				<attribute>content</attribute>
+			</attributes>
+		</shortcode>
+		<shortcode>
+			<tag>ordered_list</tag>
+			<attributes>
+				<attribute>content</attribute>
+			</attributes>
+		</shortcode>
+		<shortcode>
+			<tag>unordered_list</tag>
+			<attributes>
+				<attribute>content</attribute>
+			</attributes>
+		</shortcode>
+		<shortcode>
+			<tag>message</tag>
+			<attributes>
+				<attribute>content</attribute>
+			</attributes>
+		</shortcode>
+		<shortcode>
+			<tag>qode_parallax_layers</tag>
+			<attributes>
+				<attribute>content</attribute>
+			</attributes>
+		</shortcode>
+		<shortcode>
+			<tag>pie_chart</tag>
+			<attributes>
+				<attribute>title</attribute>
+				<attribute>text</attribute>
+			</attributes>
+		</shortcode>
+		<shortcode>
+			<tag>pie_chart2</tag>
+			<attributes>
+				<attribute>content</attribute>
+			</attributes>
+		</shortcode>
+		<shortcode>
+			<tag>pie_chart3</tag>
+			<attributes>
+				<attribute>content</attribute>
+			</attributes>
+		</shortcode>
+		<shortcode>
+			<tag>pie_chart_with_icon</tag>
+			<attributes>
+				<attribute>title</attribute>
+				<attribute>text</attribute>
+			</attributes>
+		</shortcode>
+		<shortcode>
+			<tag>progress_bar</tag>
+			<attributes>
+				<attribute>title</attribute>
+			</attributes>
+		</shortcode>
+		<shortcode>
+			<tag>progress_bar_vertical</tag>
+			<attributes>
+				<attribute>title</attribute>
+				<attribute>text</attribute>
+			</attributes>
+		</shortcode>
+		<shortcode>
+			<tag>image_slider_no_space</tag>
+			<attributes>
+				<attribute>custom_links</attribute>
+			</attributes>
+		</shortcode>
+		<shortcode>
+			<tag>service_table</tag>
+			<attributes>
+				<attribute>title</attribute>
+				<attribute>content</attribute>
+			</attributes>
+		</shortcode>
+		<shortcode>
+			<tag>social_icons</tag>
+			<attributes>
+				<attribute>link</attribute>
+			</attributes>
+		</shortcode>
+		<shortcode>
+			<tag>q_team</tag>
+			<attributes>
+				<attribute>team_name</attribute>
+				<attribute>team_position</attribute>
+				<attribute>team_description</attribute>
+				<attribute>team_social_icon_1_link</attribute>
+				<attribute>team_social_icon_2_link</attribute>
+				<attribute>team_social_icon_3_link</attribute>
+				<attribute>team_social_icon_4_link</attribute>
+				<attribute>team_social_icon_5_link</attribute>
+			</attributes>
+		</shortcode>
+		<shortcode>
+			<tag>testimonials_masonry</tag>
+			<attributes>
+				<attribute>main_title</attribute>
+				<attribute>description</attribute>
+				<attribute>button_text</attribute>
+				<attribute>button_link</attribute>
+			</attributes>
+		</shortcode>
+		<shortcode>
+			<tag>qode_video_box</tag>
+			<attributes>
+				<attribute>video_link</attribute>
+			</attributes>
+		</shortcode>
+		<shortcode>
+			<tag>animated_icon_with_text</tag>
+			<attributes>
+				<attribute>title</attribute>
+				<attribute>text</attribute>
+				<attribute>link</attribute>
+			</attributes>
+		</shortcode>
+		<shortcode>
+			<tag>qode_circle</tag>
+			<attributes>
+				<attribute>link</attribute>
+				<attribute>title</attribute>
+				<attribute>text</attribute>
+			</attributes>
+		</shortcode>
+		<shortcode>
+			<tag>qode_client</tag>
+			<attributes>
+				<attribute>link</attribute>
+			</attributes>
+		</shortcode>
+		<shortcode>
+			<tag>qode_elements_holder_item</tag>
+		</shortcode>
+		<shortcode>
+			<tag>qode_pricing_list_item</tag>
+			<attributes>
+				<attribute>title</attribute>
+				<attribute>text</attribute>
+			</attributes>
+		</shortcode>
+		<shortcode>
+			<tag>qode_pricing_table</tag>
+			<attributes>
+				<attribute>title</attribute>
+				<attribute>subtitle</attribute>
+				<attribute>short_info</attribute>
+				<attribute>additional_info</attribute>
+				<attribute>button_text</attribute>
+				<attribute>link</attribute>
+				<attribute>active_text</attribute>
+			</attributes>
+		</shortcode>
+		<shortcode>
+			<tag>qode_preview_slider_item</tag>
+			<attributes>
+				<attribute>link</attribute>
+			</attributes>
+		</shortcode>
+		<shortcode>
+			<tag>qode_in_device_slider_item</tag>
+			<attributes>
+				<attribute>title</attribute>
+				<attribute>link</attribute>
+			</attributes>
+		</shortcode>
+		<shortcode>
+			<tag>qode_accordion_tab</tag>
+			<attributes>
+				<attribute>title</attribute>
+			</attributes>
+		</shortcode>
+		<shortcode>
+			<tag>qode_advanced_call_to_action</tag>
+			<attributes>
+				<attribute>cta_text</attribute>
+				<attribute>cta_link</attribute>
+			</attributes>
+		</shortcode>
+		<shortcode>
+			<tag>qode_advanced_pricing_list</tag>
+			<attributes>
+				<attribute>list_title</attribute>
+				<attribute type="area" encoding="urlencoded_json">pricing_items</attribute>
+			</attributes>
+		</shortcode>
+		<shortcode>
+			<tag>qode_advanced_pricing_table</tag>
+			<attributes>
+				<attribute>table_title</attribute>
+				<attribute>column_title</attribute>
+				<attribute>table_footer_text</attribute>
+				<attribute type="area" encoding="urlencoded_json">pricing_items</attribute>
+			</attributes>
+		</shortcode>
+		<shortcode>
+			<tag>qode_advanced_tab</tag>
+			<attributes>
+				<attribute>tab_title</attribute>
+			</attributes>
+		</shortcode>
+		<shortcode>
+			<tag>qode_blog_carousel_titled</tag>
+			<attributes>
+				<attribute>title</attribute>
+			</attributes>
+		</shortcode>
+		<shortcode>
+			<tag>qode_button_v2</tag>
+			<attributes>
+				<attribute>text</attribute>
+				<attribute>link</attribute>
+			</attributes>
+		</shortcode>
+		<shortcode>
+			<tag>qode_call_to_action_section</tag>
+			<attributes>
+				<attribute>title</attribute>
+				<attribute>description</attribute>
+				<attribute>link</attribute>
+				<attribute>link_text</attribute>
+			</attributes>
+		</shortcode>
+		<shortcode>
+			<tag>qode_comparative_features_table</tag>
+			<attributes>
+				<attribute>table_title</attribute>
+				<attribute>column_one_title</attribute>
+				<attribute>column_two_title</attribute>
+				<attribute>column_three_title</attribute>
+				<attribute>column_one_link</attribute>
+				<attribute>column_one_link_text</attribute>
+				<attribute>column_two_link</attribute>
+				<attribute>column_two_link_text</attribute>
+				<attribute>column_three_link</attribute>
+				<attribute>column_three_link_text</attribute>
+				<attribute>table_footer_text</attribute>
+				<attribute type="area" encoding="urlencoded_json">feature</attribute>
+			</attributes>
+		</shortcode>
+		<shortcode>
+			<tag>qode_crossfade_images</tag>
+			<attributes>
+				<attribute>title</attribute>
+				<attribute>link</attribute>
+			</attributes>
+		</shortcode>
+		<shortcode>
+			<tag>qode_gradient_icon_with_text</tag>
+			<attributes>
+				<attribute>title</attribute>
+				<attribute>link</attribute>
+			</attributes>
+		</shortcode>
+		<shortcode>
+			<tag>qode_image_with_icon_and_text</tag>
+			<attributes>
+				<attribute>title</attribute>
+				<attribute>text</attribute>
+			</attributes>
+		</shortcode>
+		<shortcode>
+			<tag>qode_info_card</tag>
+			<attributes>
+				<attribute>title</attribute>
+				<attribute>text</attribute>
+				<attribute>button_link</attribute>
+				<attribute>button_text</attribute>
+			</attributes>
+		</shortcode>
+		<shortcode>
+			<tag>qode_info_card_with_icon</tag>
+			<attributes>
+				<attribute>title</attribute>
+				<attribute>text</attribute>
+				<attribute>link</attribute>
+			</attributes>
+		</shortcode>
+		<shortcode>
+			<tag>qode_interactive_icon_showcase_item</tag>
+			<attributes>
+				<attribute>title</attribute>
+				<attribute>text</attribute>
+			</attributes>
+		</shortcode>
+		<shortcode>
+			<tag>qode_item_showcase_list_item</tag>
+			<attributes>
+				<attribute>item_title</attribute>
+				<attribute>item_text</attribute>
+				<attribute>item_link</attribute>
+			</attributes>
+		</shortcode>
+		<shortcode>
+			<tag>qode_multi_device_showcase</tag>
+			<attributes>
+				<attribute>title</attribute>
+				<attribute>subtitle</attribute>
+				<attribute>button_text</attribute>
+				<attribute>button_link</attribute>
+			</attributes>
+		</shortcode>
+		<shortcode>
+			<tag>qode_numbered_process_item</tag>
+			<attributes>
+				<attribute>title</attribute>
+			</attributes>
+		</shortcode>
+		<shortcode>
+			<tag>qode_pricing_calculator</tag>
+			<attributes>
+				<attribute>subtitle</attribute>
+				<attribute>text</attribute>
+				<attribute>button_link</attribute>
+				<attribute>button_text</attribute>
+				<attribute type="area" encoding="urlencoded_json">pricing_items</attribute>
+			</attributes>
+		</shortcode>
+		<shortcode>
+			<tag>qode_report_sheet</tag>
+			<attributes>
+				<attribute>report_sheet_title</attribute>
+				<attribute>column_one_title</attribute>
+				<attribute>column_two_title</attribute>
+				<attribute>column_three_title</attribute>
+				<attribute>column_four_title</attribute>
+				<attribute>column_five_title</attribute>
+				<attribute>button_text</attribute>
+				<attribute>button_link</attribute>
+				<attribute encoding="allow_html_tags">title</attribute>
+				<attribute type="area" encoding="urlencoded_json">rows</attribute>
+			</attributes>
+		</shortcode>
+		<shortcode>
+			<tag>qode_scrolling_image</tag>
+			<attributes>
+				<attribute>title</attribute>
+				<attribute>link</attribute>
+			</attributes>
+		</shortcode>
+		<shortcode>
+			<tag>qode_simple_quote</tag>
+			<attributes>
+				<attribute>simple_quote_text</attribute>
+				<attribute>simple_quote_author</attribute>
+			</attributes>
+		</shortcode>
+		<shortcode>
+			<tag>qode_specification_list</tag>
+			<attributes>
+				<attribute>title</attribute>
+				<attribute>button_link</attribute>
+				<attribute>button_text</attribute>
+				<attribute type="area" encoding="urlencoded_json">list_items</attribute>
+			</attributes>
+		</shortcode>
+		<shortcode>
+			<tag>qode_workflow_item</tag>
+			<attributes>
+				<attribute>title</attribute>
+				<attribute>subtitle</attribute>
+				<attribute>text</attribute>
+			</attributes>
+		</shortcode>
+	</shortcodes>
+	<elementor-widgets>
+		<widget name="bridge_action">
+			<fields>
+				<field>padding_top</field>
+				<field>padding_bottom</field>
+				<field>text_size</field>
+				<field>text_letter_spacing</field>
+				<field>button_text</field>
+				<field>button_link</field>
+				<field>content</field>
+			</fields>
+		</widget>
+		<widget name="bridge_animated_icons_with_text">
+			<fields>
+				<fields-in-item items_of="animated_icons">
+					<field>title</field>
+					<field>text</field>
+					<field>link</field>
+				</fields-in-item>
+			</fields>
+		</widget>
+		<widget name="bridge_banner">
+			<fields>
+				<field>link</field>
+				<field>content</field>
+			</fields>
+		</widget>
+		<widget name="bridge_blockquote">
+			<fields>
+				<field>text</field>
+				<field>width</field>
+				<field>line_height</field>
+			</fields>
+		</widget>
+		<widget name="bridge_blog_slider">
+			<fields>
+				<field>image_width</field>
+				<field>image_height</field>
+				<field>number</field>
+				<field>category</field>
+				<field>selected_projects</field>
+				<field>day_font_size</field>
+				<field>month_font_size</field>
+				<field>excerpt_length</field>
+				<field>add_class</field>
+			</fields>
+		</widget>
+		<widget name="bridge_button">
+			<fields>
+				<field>custom_class</field>
+				<field>text</field>
+				<field>link</field>
+				<field>button_id</field>
+				<field>font_family</field>
+				<field>font_size</field>
+				<field>letter_spacing</field>
+				<field>margin</field>
+				<field>border_radius</field>
+			</fields>
+		</widget>
+		<widget name="bridge_circles">
+			<fields>
+				<fields-in-item items_of="circles">
+					<field>link</field>
+					<field>title</field>
+					<field>text</field>
+				</fields-in-item>
+			</fields>
+		</widget>
+		<widget name="bridge_clients">
+			<fields>
+				<fields-in-item items_of="clients">
+					<field>link</field>
+				</fields-in-item>
+			</fields>
+		</widget>
+		<widget name="bridge_countdown">
+			<fields>
+				<field>month_label</field>
+				<field>day_label</field>
+				<field>hour_label</field>
+				<field>minute_label</field>
+				<field>second_label</field>
+				<field>month_singular_label</field>
+				<field>day_singular_label</field>
+				<field>hour_singular_label</field>
+				<field>minute_singular_label</field>
+				<field>second_singular_label</field>
+				<field>digit_font_size</field>
+				<field>label_font_size</field>
+				<field>font_weight</field>
+			</fields>
+		</widget>
+		<widget name="bridge_counter">
+			<fields>
+				<field>digit</field>
+				<field>font_size</field>
+				<field>text</field>
+				<field>text_size</field>
+				<field>text_color</field>
+				<field>separator_transparency</field>
+				<field>element_appearance</field>
+			</fields>
+		</widget>
+		<widget name="bridge_cover_boxes">
+			<fields>
+				<field>active_element</field>
+				<field>title1</field>
+				<field>text1</field>
+				<field>link1</field>
+				<field>link_label1</field>
+				<field>title2</field>
+				<field>text2</field>
+				<field>link2</field>
+				<field>link_label2</field>
+				<field>title3</field>
+				<field>text3</field>
+				<field>link3</field>
+				<field>link_label3</field>
+			</fields>
+		</widget>
+		<widget name="bridge_custom_font">
+			<fields>
+				<field>font_family</field>
+				<field>font_size</field>
+				<field>line_height</field>
+				<field>letter_spacing</field>
+				<field>padding</field>
+				<field>margin</field>
+				<field>border_width</field>
+				<field>content</field>
+				<field>type_out_position</field>
+			</fields>
+			<fields-in-item items_of="typed_endings">
+				<field>typed_ending</field>
+			</fields-in-item>
+		</widget>
+		<widget name="bridge_expanding_images">
+			<fields>
+				<field>link</field>
+				<field>title</field>
+				<field>side_image_1_link</field>
+				<field>side_image_2_link</field>
+				<field>side_image_3_link</field>
+				<field>side_image_4_link</field>
+				<field>side_image_5_link</field>
+				<field>side_image_6_link</field>
+				<field>side_image_7_link</field>
+				<field>side_image_8_link</field>
+			</fields>
+		</widget>
+		<widget name="bridge_google_map">
+			<fields>
+				<field>address1</field>
+				<field>address2</field>
+				<field>address3</field>
+				<field>address4</field>
+				<field>address5</field>
+				<field>map_height</field>
+				<field>snazzy_map_code</field>
+				<field>saturation</field>
+				<field>lightness</field>
+				<field>zoom</field>
+			</fields>
+		</widget>
+		<widget name="bridge_horizontal_marquee">
+			<fields>
+				<field>height</field>
+				<field>spacing</field>
+			</fields>
+			<fields-in-item items_of="marquee_items">
+				<field>width</field>
+			</fields-in-item>
+		</widget>
+		<widget name="bridge_icon_list_item">
+			<fields>
+				<field>icon_size</field>
+				<field>title</field>
+				<field>title_size</field>
+				<field>margin_bottom</field>
+			</fields>
+		</widget>
+		<widget name="bridge_icon_text">
+			<fields>
+				<field>icon_margin</field>
+				<field>custom_icon_size</field>
+				<field>custom_icon_size_inner</field>
+				<field>custom_icon_margin</field>
+				<field>icon_animation_delay</field>
+				<field>title</field>
+				<field>separator_top_margin</field>
+				<field>separator_bottom_margin</field>
+				<field>separator_width</field>
+				<field>text</field>
+				<field>link</field>
+				<field>link_text</field>
+			</fields>
+		</widget>
+		<widget name="bridge_icon">
+			<fields>
+				<field>custom_size</field>
+				<field>custom_shape_size</field>
+				<field>border_radius</field>
+				<field>border_width</field>
+				<field>margin</field>
+				<field>icon_animation_delay</field>
+				<field>link</field>
+			</fields>
+		</widget>
+		<widget name="bridge_image_gallery">
+			<fields>
+				<field>img_size</field>
+				<field>custom_links</field>
+			</fields>
+		</widget>
+		<widget name="bridge_image_hover">
+			<fields>
+				<field>link</field>
+				<field>transition_delay</field>
+			</fields>
+		</widget>
+		<widget name="bridge_image_slider_no_space">
+			<fields>
+				<field>custom_links</field>
+				<field>height</field>
+				<field>highlight_inactive_opacity</field>
+			</fields>
+		</widget>
+		<widget name="bridge_image_with_text_over">
+			<fields>
+				<field>title</field>
+				<field>title_size</field>
+				<field>content</field>
+			</fields>
+		</widget>
+		<widget name="bridge_image_with_text">
+			<fields>
+				<field>title</field>
+				<field>content</field>
+			</fields>
+		</widget>
+		<widget name="bridge_in_device_slider">
+			<fields>
+				<field>timeout</field>
+			</fields>
+			<fields-in-item items_of="in_device_slider_items">
+				<field>title</field>
+				<field>link</field>
+			</fields-in-item>
+		</widget>
+		<widget name="bridge_latest_posts_two">
+			<fields>
+				<field>number_of_posts</field>
+				<field>category</field>
+				<field>text_length</field>
+				<field>image_width</field>
+				<field>image_height</field>
+			</fields>
+		</widget>
+		<widget name="bridge_line_graph">
+			<fields>
+				<field>width</field>
+				<field>height</field>
+				<field>scale_steps</field>
+				<field>scale_step_width</field>
+				<field>labels</field>
+				<field>content</field>
+			</fields>
+		</widget>
+		<widget name="bridge_masonry_blog">
+			<fields>
+				<field>number_of_posts</field>
+				<field>category</field>
+				<field>text_length</field>
+			</fields>
+		</widget>
+		<widget name="bridge_masonry_gallery">
+			<fields>
+				<field>category</field>
+				<field>number</field>
+				<field>parallax_item_speed</field>
+				<field>parallax_item_offset</field>
+			</fields>
+		</widget>
+		<widget name="bridge_message">
+			<fields>
+				<field>border_width</field>
+				<field>content</field>
+			</fields>
+		</widget>
+		<widget name="bridge_old_accordion">
+			<fields>
+				<field>active_tab</field>
+				<field>extra_class</field>
+				<field>mark_border_radius</field>
+			</fields>
+			<fields-in-item items_of="accordion_items">
+				<field>title</field>
+				<field>el_id</field>
+				<field>content</field>
+			</fields-in-item>
+		</widget>
+		<widget name="bridge_old_tab">
+			<fields>
+				<field>extra_class</field>
+			</fields>
+			<fields-in-item items_of="tab_items">
+				<field>title</field>
+				<field>content</field>
+			</fields-in-item>
+		</widget>
+		<widget name="bridge_ordered_list">
+			<fields>
+				<field>content</field>
+			</fields>
+		</widget>
+		<widget name="bridge_parallax_layers">
+			<fields>
+				<field>height</field>
+				<field>content</field>
+			</fields>
+		</widget>
+		<widget name="bridge_pie_chart_doughnut">
+			<fields>
+				<field>width</field>
+				<field>height</field>
+				<field>content</field>
+			</fields>
+		</widget>
+		<widget name="bridge_pie_chart_full">
+			<fields>
+				<field>width</field>
+				<field>height</field>
+				<field>element_appearance</field>
+				<field>content</field>
+			</fields>
+		</widget>
+		<widget name="bridge_pie_chart_with_icon">
+			<fields>
+				<field>percent</field>
+				<field>line_width</field>
+				<field>title</field>
+				<field>text</field>
+			</fields>
+		</widget>
+		<widget name="bridge_pie_chart">
+			<fields>
+				<field>percent</field>
+				<field>percent_font_size</field>
+				<field>line_width</field>
+				<field>title</field>
+				<field>text</field>
+				<field>element_appearance</field>
+			</fields>
+		</widget>
+		<widget name="bridge_portfolio_list">
+			<fields>
+				<field>spacing</field>
+				<field>box_border_width</field>
+				<field>row_height</field>
+				<field>justify_threshold</field>
+				<field>number</field>
+				<field>category</field>
+				<field>selected_projects</field>
+				<field>title_font_size</field>
+			</fields>
+		</widget>
+		<widget name="bridge_portfolio_slider">
+			<fields>
+				<field>number</field>
+				<field>category</field>
+				<field>selected_projects</field>
+			</fields>
+		</widget>
+		<widget name="bridge_product_list_elegant">
+			<fields>
+				<field>per_page</field>
+				<field>category</field>
+				<field>holder_padding</field>
+				<field>price_font_size</field>
+			</fields>
+		</widget>
+		<widget name="bridge_product_list_masonry">
+			<fields>
+				<field>per_page</field>
+				<field>category</field>
+				<field>price_font_size</field>
+			</fields>
+		</widget>
+		<widget name="bridge_product_list_pinterest">
+			<fields>
+				<field>per_page</field>
+				<field>category</field>
+				<field>price_font_size</field>
+			</fields>
+		</widget>
+		<widget name="bridge_progress_bar_icon">
+			<fields>
+				<field>icons_number</field>
+				<field>active_number</field>
+				<field>custom_size</field>
+				<field>element_appearance</field>
+			</fields>
+		</widget>
+		<widget name="bridge_progress_bar_vertical">
+			<fields>
+				<field>title</field>
+				<field>title_size</field>
+				<field>border_radius</field>
+				<field>percent</field>
+				<field>percentage_text_size</field>
+				<field>text</field>
+			</fields>
+		</widget>
+		<widget name="bridge_progress_bar">
+			<fields>
+				<field>title</field>
+				<field>percent</field>
+				<field>percent_font_size</field>
+				<field>noactive_background_color_transparency</field>
+				<field>height</field>
+				<field>border_radius</field>
+			</fields>
+		</widget>
+		<widget name="bridge_separator_with_icon">
+			<fields>
+				<field>opacity</field>
+			</fields>
+		</widget>
+		<widget name="bridge_service_table">
+			<fields>
+				<field>title</field>
+				<field>background_image_height</field>
+				<field>custom_size</field>
+				<field>border_width</field>
+				<field>content</field>
+			</fields>
+		</widget>
+		<widget name="bridge_social_icons">
+			<fields>
+				<field>custom_size</field>
+				<field>custom_shape_size</field>
+				<field>link</field>
+				<field>border_radius</field>
+				<field>background_color_transparency</field>
+				<field>border_width</field>
+				<field>icon_margin</field>
+			</fields>
+		</widget>
+		<widget name="bridge_team">
+			<fields>
+				<field>team_name</field>
+				<field>team_position</field>
+				<field>team_description</field>
+				<field>box_border_width</field>
+				<field>team_social_icon_1_link</field>
+				<field>team_social_icon_2_link</field>
+				<field>team_social_icon_3_link</field>
+				<field>team_social_icon_4_link</field>
+				<field>team_social_icon_5_link</field>
+			</fields>
+		</widget>
+		<widget name="bridge_testimonials_carousel">
+			<fields>
+				<field>category</field>
+				<field>number</field>
+				<field>text_font_size</field>
+				<field>author_text_font_size</field>
+				<field>animation_speed</field>
+			</fields>
+		</widget>
+		<widget name="bridge_testimonials_masonry">
+			<fields>
+				<field>category</field>
+				<field>main_title</field>
+				<field>main_title_size</field>
+				<field>description</field>
+				<field>button_text</field>
+				<field>button_link</field>
+				<field>title_size</field>
+				<field>author_size</field>
+			</fields>
+		</widget>
+		<widget name="bridge_testimonials">
+			<fields>
+				<field>category</field>
+				<field>number</field>
+				<field>text_font_size</field>
+				<field>author_text_font_size</field>
+				<field>animation_speed</field>
+			</fields>
+		</widget>
+		<widget name="bridge_text_marquee">
+			<fields>
+				<field>title</field>
+			</fields>
+		</widget>
+		<widget name="unrdered_list">
+			<fields>
+				<field>content</field>
+			</fields>
+		</widget>
+		<widget name="bridge_advanced_call_to_action">
+			<fields>
+				<field>cta_text</field>
+				<field>cta_link</field>
+				<field>font_size</field>
+				<field>icon_font_size</field>
+				<field>icon_left_margin</field>
+				<field>icon_border_shape_size</field>
+				<field>icon_horizontal_offset_adj</field>
+				<field>icon_vertical_offset_adj</field>
+				<field>height</field>
+			</fields>
+		</widget>
+		<widget name="bridge_advanced_image_gallery">
+			<fields>
+				<field>custom_class</field>
+				<field>image_size</field>
+				<field>custom_links</field>
+				<field>slider_speed</field>
+				<field>slider_speed_animation</field>
+			</fields>
+		</widget>
+		<widget name="bridge_advanced_pricing_list">
+			<fields>
+				<field>list_title</field>
+				<field>list_title_margin_bottom</field>
+			</fields>
+			<fields-in-item items_of="pricing_items">
+				<field>item_title</field>
+				<field>item_description</field>
+				<field>item_price</field>
+			</fields-in-item>
+		</widget>
+		<widget name="bridge_advanced_pricing_table">
+			<fields>
+				<field>table_title</field>
+				<field>column_title</field>
+				<field>currency</field>
+				<field>table_footer_text</field>
+			</fields>
+			<fields-in-item items_of="pricing_items">
+				<field>item_title</field>
+				<field>item_price</field>
+			</fields-in-item>
+		</widget>
+		<widget name="bridge_blog_carousel_titled">
+			<fields>
+				<field>title</field>
+				<field>excerpt_length</field>
+				<field>number</field>
+				<field>category</field>
+				<field>selected_projects</field>
+			</fields>
+		</widget>
+		<widget name="bridge_button_v2">
+			<fields>
+				<field>text</field>
+				<field>link</field>
+				<field>custom_class</field>
+				<field>font_family</field>
+				<field>font_size</field>
+				<field>letter_spacing</field>
+				<field>icon_font_size</field>
+				<field>margin</field>
+			</fields>
+		</widget>
+		<widget name="bridge_call_to_action_section">
+			<fields>
+				<field>title</field>
+				<field>description</field>
+				<field>link</field>
+				<field>link_text</field>
+			</fields>
+		</widget>
+		<widget name="bridge_comarative_features_table">
+			<fields>
+				<field>table_title</field>
+				<field>column_one_title</field>
+				<field>column_two_title</field>
+				<field>column_three_title</field>
+				<field>column_one_link</field>
+				<field>column_one_link_text</field>
+				<field>column_two_link</field>
+				<field>column_two_link_text</field>
+				<field>column_three_link</field>
+				<field>column_three_link_text</field>
+				<field>table_footer_text</field>
+			</fields>
+			<fields-in-item items_of="features">
+				<field>feature_title</field>
+			</fields-in-item>
+		</widget>
+		<widget name="bridge_comparison_slider">
+			<fields>
+				<field>offset</field>
+			</fields>
+		</widget>
+		<widget name="bridge_crossfade_images">
+			<fields>
+				<field>title</field>
+				<field>link</field>
+			</fields>
+		</widget>
+		<widget name="bridge_expendable_section">
+			<fields>
+				<field>anchor_id</field>
+				<field>more_label</field>
+				<field>less_label</field>
+				<field>top_padding</field>
+				<field>content</field>
+			</fields>
+		</widget>
+		<widget name="bridge_gradient_icon_with_text">
+			<fields>
+				<field>title</field>
+				<field>link</field>
+				<field>custom_icon_size</field>
+			</fields>
+		</widget>
+		<widget name="bridge_image_with_icon_and_text">
+			<fields>
+				<field>margin_below_image</field>
+				<field>icon_shape_size</field>
+				<field>custom_icon_size</field>
+				<field>title</field>
+				<field>text</field>
+			</fields>
+		</widget>
+		<widget name="bridge_info_card_with_icon">
+			<fields>
+				<field>title</field>
+				<field>text</field>
+				<field>link</field>
+				<field>custom_icon_size</field>
+				<field>icon_shape_size</field>
+			</fields>
+		</widget>
+		<widget name="bridge_info_card">
+			<fields>
+				<field>title</field>
+				<field>text</field>
+				<field>button_link</field>
+				<field>button_text</field>
+				<field>button_height</field>
+			</fields>
+		</widget>
+		<widget name="qode_interactive_links">
+			<fields-in-item items_of="interactive_links">
+				<field>item_title</field>
+				<field>item_link</field>
+			</fields-in-item>
+		</widget>
+		<widget name="bridge_interactive_icon_showcase">
+			<fields>
+				<field>autoplay_interval</field>
+				<field>border_width</field>
+			</fields>
+			<fields-in-item items_of="interactive_items">
+				<field>title</field>
+				<field>text</field>
+			</fields-in-item>
+		</widget>
+		<widget name="bridge_interactive_project_list">
+			<fields>
+				<field>number_of_items</field>
+				<field>category</field>
+				<field>selected_projects</field>
+				<field>tag</field>
+				<field>title_font_size</field>
+			</fields>
+		</widget>
+		<widget name="bridge_interest_rate_calculator">
+			<fields>
+				<field>irt_title</field>
+				<field>irt_rate</field>
+				<field>irt_loan_min_value</field>
+				<field>irt_loan_max_value</field>
+				<field>irt_loan_step</field>
+				<field>irt_loan_min_period</field>
+				<field>irt_loan_max_period</field>
+				<field>irt_period_step</field>
+				<field>irt_currency</field>
+				<field>irt_period_label</field>
+				<field>irt_button_text</field>
+				<field>irt_button_link</field>
+				<field>irt_values_font</field>
+				<field>irt_labels_font</field>
+				<field>irt_results_font</field>
+			</fields>
+		</widget>
+		<widget name="bridge_inverted_portfolio_slider">
+			<fields>
+				<field>slider_speed</field>
+				<field>slider_speed_animation</field>
+				<field>number_of_items</field>
+				<field>category</field>
+				<field>selected_projects</field>
+				<field>tag</field>
+			</fields>
+		</widget>
+		<widget name="bridge_intro_section">
+			<fields>
+				<field>title</field>
+				<field>subtitle</field>
+				<field>text</field>
+			</fields>
+		</widget>
+		<widget name="bridge_item_showcase">
+			<fields>
+				<field>image_top_offset</field>
+			</fields>
+			<fields-in-item items_of="interactive_items">
+				<field>item_title</field>
+				<field>item_text</field>
+				<field>item_link</field>
+			</fields-in-item>
+		</widget>
+		<widget name="bridge_latest_posts">
+			<fields>
+				<field>number_of_posts</field>
+				<field>category</field>
+				<field>text_length</field>
+			</fields>
+		</widget>
+
+		<widget name="bridge_portfolio_carousel">
+			<fields>
+				<field>slider_speed</field>
+				<field>slider_speed_animation</field>
+				<field>number_of_items</field>
+				<field>category</field>
+				<field>selected_projects</field>
+				<field>tag</field>
+			</fields>
+		</widget>
+		<widget name="bridge_portfolio_list_stacked">
+			<fields>
+				<field>number_of_items</field>
+				<field>category</field>
+				<field>selected_projects</field>
+				<field>tag</field>
+				<field>content</field>
+			</fields>
+		</widget>
+		<widget name="bridge_portfolio_project_slider">
+			<fields>
+				<field>slider_speed</field>
+				<field>slider_speed_animation</field>
+				<field>number_of_items</field>
+				<field>category</field>
+				<field>selected_projects</field>
+				<field>tag</field>
+			</fields>
+		</widget>
+		<widget name="bridge_pricing_calculator">
+			<fields>
+				<field>subtitle</field>
+				<field>currency</field>
+				<field>text</field>
+				<field>button_link</field>
+				<field>button_text</field>
+			</fields>
+			<fields-in-item items_of="pricing_items">
+				<field>item_title</field>
+				<field>item_price</field>
+			</fields-in-item>
+		</widget>
+		<widget name="bridge_product_list">
+			<fields>
+				<field>qode_pl_number_of_posts</field>
+				<field>qode_pl_price_range</field>
+				<field>qode_pl_category_values</field>
+				<field>qode_pl_taxonomy_values</field>
+				<field>qode_pl_excerpt_length</field>
+				<field>qode_pl_info_bottom_margin</field>
+			</fields>
+		</widget>
+		<widget name="bridge_report_sheet">
+			<fields>
+				<field>report_sheet_title</field>
+				<field>column_one_title</field>
+				<field>column_two_title</field>
+				<field>column_three_title</field>
+				<field>column_four_title</field>
+				<field>column_five_title</field>
+				<field>button_text</field>
+				<field>button_link</field>
+			</fields>
+			<fields-in-item items_of="rows">
+				<field>column_one_text</field>
+				<field>column_one_sub_text</field>
+				<field>column_two_text</field>
+				<field>column_two_sub_text</field>
+				<field>column_three_text</field>
+				<field>column_three_sub_text</field>
+				<field>column_four_text</field>
+				<field>column_four_sub_text</field>
+				<field>column_five_text</field>
+				<field>column_five_sub_text</field>
+			</fields-in-item>
+		</widget>
+		<widget name="bridge_scrolling_image">
+			<fields>
+				<field>title</field>
+				<field>link</field>
+			</fields>
+		</widget>
+		<widget name="bridge_simple_quote">
+			<fields>
+				<field>simple_quote_text</field>
+				<field>simple_quote_author</field>
+				<field>border_radius</field>
+				<field>holder_padding</field>
+				<field>simple_quote_spacing</field>
+			</fields>
+		</widget>
+		<widget name="bridge_specification_list">
+			<fields>
+				<field>title</field>
+				<field>button_link</field>
+				<field>button_text</field>
+				<field>button_height</field>
+			</fields>
+			<fields-in-item items_of="list_items">
+				<field>label</field>
+				<field>value</field>
+			</fields-in-item>
+		</widget>
+		<widget name="bridge_split_scrolling_section">
+			<fields>
+				<field>item_padding</field>
+				<field>right_item_padding</field>
+			</fields>
+		</widget>
+		<widget name="bridge_vertical_portfolio_slider">
+			<fields>
+				<field>slider_speed</field>
+				<field>slider_speed_animation</field>
+				<field>number_of_items</field>
+				<field>category</field>
+				<field>selected_projects</field>
+				<field>tag</field>
+			</fields>
+		</widget>
+		<widget name="bridge_vertical_separator">
+			<fields>
+				<field>vs_height</field>
+				<field>vs_width</field>
+				<field>vs_margin</field>
+			</fields>
+		</widget>
+		<widget name="bridge_video_box">
+			<fields>
+				<field>video_link</field>
+			</fields>
+		</widget>
+		<widget name="bridge_workflow">
+			<fields>
+				<field>el_class</field>
+			</fields>
+			<fields-in-item items_of="workflow_items">
+				<field>title</field>
+				<field>subtitle</field>
+				<field>text</field>
+			</fields-in-item>
+		</widget>
+	</elementor-widgets>
+</wpml-config>

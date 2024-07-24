@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 width="24px" height="24px" viewBox="0 0 24 24" enable-background="new 0 0 24 24" xml:space="preserve">
+<polygon fill="none" stroke="#EE2852" stroke-miterlimit="10" points="0.5,3.508 9.547,3.492 9.547,9.492 23.5,9.539 23.5,20.508 
+	0.5,20.508 "/>
+<rect x="3.016" y="5.973" fill="#EE2852" width="4" height="1"/>
+<rect x="12.063" y="5.973" fill="#EE2852" width="4" height="1"/>
+<rect x="18.063" y="5.973" fill="#EE2852" width="4" height="1"/>
+<path fill="none" stroke="#EE2852" stroke-miterlimit="10" d="M9.547,9.492"/>
+</svg>
